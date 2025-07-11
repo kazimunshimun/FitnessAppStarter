@@ -1,0 +1,806 @@
+{
+  "routineId": "starter-beginner-30day",
+  "title": "30-Day Beginner Fitness Challenge",
+  "description": "A gentle 30-day plan to build consistency, mobility, and foundational strength.",
+  "level": "beginner",
+  "duration": 30,
+  "dailyRoutines": [
+    {
+      "day": 1,
+      "title": "Chair Strength",
+      "targetAreas": [
+        "strength"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Chair Pushups",
+          "durationSec": 30
+        },
+        {
+          "name": "Overhead Press (no weights)",
+          "durationSec": 30
+        },
+        {
+          "name": "Bicep Curls (resistance band)",
+          "durationSec": 30
+        },
+        {
+          "name": "Triceps Dips (chair)",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Arm Circles",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Core Activation",
+      "targetAreas": [
+        "core"
+      ],
+      "estimatedMinutes": 12,
+      "exercises": [
+        {
+          "name": "Seated Knee Lifts",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Russian Twist",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Bicycle Crunches",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Leg Extensions",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Forward Fold",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Mobility Focus",
+      "targetAreas": [
+        "mobility"
+      ],
+      "estimatedMinutes": 10,
+      "exercises": [
+        {
+          "name": "Neck Rolls",
+          "durationSec": 30
+        },
+        {
+          "name": "Shoulder Rolls",
+          "durationSec": 30
+        },
+        {
+          "name": "Hip Circles",
+          "durationSec": 30
+        },
+        {
+          "name": "Cat-Cow Stretch",
+          "durationSec": 60
+        },
+        {
+          "name": "Child's Pose",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Core Activation",
+      "targetAreas": [
+        "core"
+      ],
+      "estimatedMinutes": 12,
+      "exercises": [
+        {
+          "name": "Seated Knee Lifts",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Russian Twist",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Bicycle Crunches",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Leg Extensions",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Forward Fold",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Posture + Core Stability",
+      "targetAreas": [
+        "core",
+        "posture"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Wall Angels",
+          "durationSec": 30
+        },
+        {
+          "name": "Pelvic Tilt",
+          "durationSec": 30
+        },
+        {
+          "name": "Shoulder Blade Squeeze",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Oblique Crunch",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Plank Hold",
+          "durationSec": 30
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Rest & Recovery",
+      "targetAreas": [
+        "recovery"
+      ],
+      "estimatedMinutes": 5,
+      "exercises": [
+        {
+          "name": "Deep Breathing",
+          "durationSec": 90
+        },
+        {
+          "name": "Progressive Relaxation",
+          "durationSec": 120
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Rest & Recovery",
+      "targetAreas": [
+        "recovery"
+      ],
+      "estimatedMinutes": 5,
+      "exercises": [
+        {
+          "name": "Deep Breathing",
+          "durationSec": 90
+        },
+        {
+          "name": "Progressive Relaxation",
+          "durationSec": 120
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Core Activation",
+      "targetAreas": [
+        "core"
+      ],
+      "estimatedMinutes": 12,
+      "exercises": [
+        {
+          "name": "Seated Knee Lifts",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Russian Twist",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Bicycle Crunches",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Leg Extensions",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Forward Fold",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Mobility Focus",
+      "targetAreas": [
+        "mobility"
+      ],
+      "estimatedMinutes": 10,
+      "exercises": [
+        {
+          "name": "Neck Rolls",
+          "durationSec": 30
+        },
+        {
+          "name": "Shoulder Rolls",
+          "durationSec": 30
+        },
+        {
+          "name": "Hip Circles",
+          "durationSec": 30
+        },
+        {
+          "name": "Cat-Cow Stretch",
+          "durationSec": 60
+        },
+        {
+          "name": "Child's Pose",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Posture + Core Stability",
+      "targetAreas": [
+        "core",
+        "posture"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Wall Angels",
+          "durationSec": 30
+        },
+        {
+          "name": "Pelvic Tilt",
+          "durationSec": 30
+        },
+        {
+          "name": "Shoulder Blade Squeeze",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Oblique Crunch",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Plank Hold",
+          "durationSec": 30
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "title": "Chair Strength",
+      "targetAreas": [
+        "strength"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Chair Pushups",
+          "durationSec": 30
+        },
+        {
+          "name": "Overhead Press (no weights)",
+          "durationSec": 30
+        },
+        {
+          "name": "Bicep Curls (resistance band)",
+          "durationSec": 30
+        },
+        {
+          "name": "Triceps Dips (chair)",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Arm Circles",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "title": "Rest & Recovery",
+      "targetAreas": [
+        "recovery"
+      ],
+      "estimatedMinutes": 5,
+      "exercises": [
+        {
+          "name": "Deep Breathing",
+          "durationSec": 90
+        },
+        {
+          "name": "Progressive Relaxation",
+          "durationSec": 120
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "title": "Chair Strength",
+      "targetAreas": [
+        "strength"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Chair Pushups",
+          "durationSec": 30
+        },
+        {
+          "name": "Overhead Press (no weights)",
+          "durationSec": 30
+        },
+        {
+          "name": "Bicep Curls (resistance band)",
+          "durationSec": 30
+        },
+        {
+          "name": "Triceps Dips (chair)",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Arm Circles",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "title": "Rest & Recovery",
+      "targetAreas": [
+        "recovery"
+      ],
+      "estimatedMinutes": 5,
+      "exercises": [
+        {
+          "name": "Deep Breathing",
+          "durationSec": 90
+        },
+        {
+          "name": "Progressive Relaxation",
+          "durationSec": 120
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "title": "Posture + Core Stability",
+      "targetAreas": [
+        "core",
+        "posture"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Wall Angels",
+          "durationSec": 30
+        },
+        {
+          "name": "Pelvic Tilt",
+          "durationSec": 30
+        },
+        {
+          "name": "Shoulder Blade Squeeze",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Oblique Crunch",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Plank Hold",
+          "durationSec": 30
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "title": "Core Activation",
+      "targetAreas": [
+        "core"
+      ],
+      "estimatedMinutes": 12,
+      "exercises": [
+        {
+          "name": "Seated Knee Lifts",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Russian Twist",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Bicycle Crunches",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Leg Extensions",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Forward Fold",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "title": "Chair Strength",
+      "targetAreas": [
+        "strength"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Chair Pushups",
+          "durationSec": 30
+        },
+        {
+          "name": "Overhead Press (no weights)",
+          "durationSec": 30
+        },
+        {
+          "name": "Bicep Curls (resistance band)",
+          "durationSec": 30
+        },
+        {
+          "name": "Triceps Dips (chair)",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Arm Circles",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "title": "Rest & Recovery",
+      "targetAreas": [
+        "recovery"
+      ],
+      "estimatedMinutes": 5,
+      "exercises": [
+        {
+          "name": "Deep Breathing",
+          "durationSec": 90
+        },
+        {
+          "name": "Progressive Relaxation",
+          "durationSec": 120
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "title": "Chair Strength",
+      "targetAreas": [
+        "strength"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Chair Pushups",
+          "durationSec": 30
+        },
+        {
+          "name": "Overhead Press (no weights)",
+          "durationSec": 30
+        },
+        {
+          "name": "Bicep Curls (resistance band)",
+          "durationSec": 30
+        },
+        {
+          "name": "Triceps Dips (chair)",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Arm Circles",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "title": "Posture + Core Stability",
+      "targetAreas": [
+        "core",
+        "posture"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Wall Angels",
+          "durationSec": 30
+        },
+        {
+          "name": "Pelvic Tilt",
+          "durationSec": 30
+        },
+        {
+          "name": "Shoulder Blade Squeeze",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Oblique Crunch",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Plank Hold",
+          "durationSec": 30
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "title": "Rest & Recovery",
+      "targetAreas": [
+        "recovery"
+      ],
+      "estimatedMinutes": 5,
+      "exercises": [
+        {
+          "name": "Deep Breathing",
+          "durationSec": 90
+        },
+        {
+          "name": "Progressive Relaxation",
+          "durationSec": 120
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "title": "Core Activation",
+      "targetAreas": [
+        "core"
+      ],
+      "estimatedMinutes": 12,
+      "exercises": [
+        {
+          "name": "Seated Knee Lifts",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Russian Twist",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Bicycle Crunches",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Leg Extensions",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Forward Fold",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "title": "Chair Strength",
+      "targetAreas": [
+        "strength"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Chair Pushups",
+          "durationSec": 30
+        },
+        {
+          "name": "Overhead Press (no weights)",
+          "durationSec": 30
+        },
+        {
+          "name": "Bicep Curls (resistance band)",
+          "durationSec": 30
+        },
+        {
+          "name": "Triceps Dips (chair)",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Arm Circles",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "title": "Rest & Recovery",
+      "targetAreas": [
+        "recovery"
+      ],
+      "estimatedMinutes": 5,
+      "exercises": [
+        {
+          "name": "Deep Breathing",
+          "durationSec": 90
+        },
+        {
+          "name": "Progressive Relaxation",
+          "durationSec": 120
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "title": "Posture + Core Stability",
+      "targetAreas": [
+        "core",
+        "posture"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Wall Angels",
+          "durationSec": 30
+        },
+        {
+          "name": "Pelvic Tilt",
+          "durationSec": 30
+        },
+        {
+          "name": "Shoulder Blade Squeeze",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Oblique Crunch",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Plank Hold",
+          "durationSec": 30
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "title": "Core Activation",
+      "targetAreas": [
+        "core"
+      ],
+      "estimatedMinutes": 12,
+      "exercises": [
+        {
+          "name": "Seated Knee Lifts",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Russian Twist",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Bicycle Crunches",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Leg Extensions",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Forward Fold",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "title": "Mobility Focus",
+      "targetAreas": [
+        "mobility"
+      ],
+      "estimatedMinutes": 10,
+      "exercises": [
+        {
+          "name": "Neck Rolls",
+          "durationSec": 30
+        },
+        {
+          "name": "Shoulder Rolls",
+          "durationSec": 30
+        },
+        {
+          "name": "Hip Circles",
+          "durationSec": 30
+        },
+        {
+          "name": "Cat-Cow Stretch",
+          "durationSec": 60
+        },
+        {
+          "name": "Child's Pose",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "title": "Rest & Recovery",
+      "targetAreas": [
+        "recovery"
+      ],
+      "estimatedMinutes": 5,
+      "exercises": [
+        {
+          "name": "Deep Breathing",
+          "durationSec": 90
+        },
+        {
+          "name": "Progressive Relaxation",
+          "durationSec": 120
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "title": "Chair Strength",
+      "targetAreas": [
+        "strength"
+      ],
+      "estimatedMinutes": 14,
+      "exercises": [
+        {
+          "name": "Chair Pushups",
+          "durationSec": 30
+        },
+        {
+          "name": "Overhead Press (no weights)",
+          "durationSec": 30
+        },
+        {
+          "name": "Bicep Curls (resistance band)",
+          "durationSec": 30
+        },
+        {
+          "name": "Triceps Dips (chair)",
+          "durationSec": 30
+        },
+        {
+          "name": "Seated Arm Circles",
+          "durationSec": 60
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "title": "Rest & Recovery",
+      "targetAreas": [
+        "recovery"
+      ],
+      "estimatedMinutes": 5,
+      "exercises": [
+        {
+          "name": "Deep Breathing",
+          "durationSec": 90
+        },
+        {
+          "name": "Progressive Relaxation",
+          "durationSec": 120
+        }
+      ]
+    }
+  ]
+}
