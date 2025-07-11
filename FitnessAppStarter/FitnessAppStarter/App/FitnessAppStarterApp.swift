@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct FitnessAppStarterApp: App {
+    @AppStorage("hasCompletedOnboarding") var hasCompletedOnboarding: Bool = false
     var body: some Scene {
         WindowGroup {
-            HomeView()
+            if hasCompletedOnboarding {
+                HomeView()
+            } else {
+                OnboardingView()
+            }
         }
     }
 }
